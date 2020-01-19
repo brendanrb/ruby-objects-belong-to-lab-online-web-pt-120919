@@ -8,7 +8,7 @@ class Post
   end
   
   def self.author
-    .author
+    puts author
   end
   
 end
